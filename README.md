@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharushika Sadan</h1>
-<h3 align="center">2nd year undergraduate student from Sri Lanka</h3>
+<h3 align="center">I'm Tharushika Sadan, an aspiring software engineer currently pursuing my undergraduate studies at SLIIT in Sri Lanka. As a dedicated learner in my second year of software engineering, I'm passionate about delving into the world of coding and problem-solving. My GitHub profile showcases my journey of exploring various projects and honing my skills. Join me as I embrace the challenges and opportunities that the realm of software development has to offer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SadanTharu&label=Profile%20views&color=0e75b6&style=flat" alt="SadanTharu" /> </p>
 
