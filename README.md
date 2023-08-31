@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharushika Sadan</h1>
 <h3 align="center">2nd year undergraduate student from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulindugit&label=Profile%20views&color=0e75b6&style=flat" alt="kulindugit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kulindugit&label=Profile%20views&color=0e75b6&style=flat" alt="SadanTharu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kulindugit" alt="kulindugit" /></a> </p>
 
