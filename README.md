@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tharushika Sadan</h1>
 <h3 align="center">2nd year undergraduate student from Sri Lanka</h3>
 
+<img align="right" alt="animation" width="400" src="https://tenor.com/view/3d-motion-design-abstract-art-illusion-illustration-gif-13712019">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SadanTharu&label=Profile%20views&color=0e75b6&style=flat" alt="SadanTharu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SadanTharu" alt="SadanTharu" /></a> </p>
