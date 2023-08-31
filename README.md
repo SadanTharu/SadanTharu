@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KUlindu Rubashinha</h1>
+<h1 align="center">Hi 👋, I'm Tharushika Sadan</h1>
 <h3 align="center">2nd year undergraduate student from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kulindugit&label=Profile%20views&color=0e75b6&style=flat" alt="kulindugit" /> </p>
