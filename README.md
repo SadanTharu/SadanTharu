@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kulindu lindin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SadanTharu lindin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tharushika-sadan-a32496244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SadanTharu lindin" height="30" width="40" /></a>
 <a href="https://fb.com/sadan.tharushishika.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SadanTharu fb" height="30" width="40" /></a>
-<a href="https://instagram.com/kuli insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SadanTharu insta" height="30" width="40" /></a>
+<a href="https://instagram.com/sadan_tharu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SadanTharu insta" height="30" width="40" /></a>
 <a href="https://www.behance.net/graphiccorner4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="SadanTharu behanse" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@graphiccorner076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="SadanTharu youtube" height="30" width="40" /></a>
 </p>
