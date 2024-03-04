@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java**
 
-- 👨‍💻 All of my 3d projects are available at [https://www.behance.net/TharushikaSadan?tracking_source=search_users|tharushika%20sadan](https://www.behance.net/TharushikaSadan?)
+- 👨‍💻 All of my 3d projects are available at [https://www.behance.net/TharushikaSadan](https://www.behance.net/TharushikaSadan?)
 
 - 📫 How to reach me **sadantharu@gmail.com**
 
